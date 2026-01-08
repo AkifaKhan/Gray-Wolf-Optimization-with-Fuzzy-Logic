@@ -1,4 +1,4 @@
-# 🐺 Fuzzy Grey Wolf Optimizer for Decision Tree Construction (Master’s Thesis)
+# ENHANCED GREY WOLF OPTIMIZER FOR INTERPRETABLE DECISION TREE INDUCTION IN HEALTHCARE  (Master’s Thesis)
 
 This repository contains the complete experimental codebase developed for my **Master’s thesis**, which focuses on improving **Decision Tree (DT)** performance and interpretability for healthcare prediction tasks using **Grey Wolf Optimization (GWO)** and its **fuzzy-enhanced variants**.
 
